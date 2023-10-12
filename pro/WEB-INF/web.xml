@@ -1,0 +1,14 @@
+<web-app>
+<servlet>
+<servlet-name>multiple</servlet-name>
+<servlet-class>TestServlet</servlet-class>
+
+</servlet>
+<servlet-mapping>
+<servlet-name>multiple</servlet-name>
+<url-pattern>/multiple</url-pattern>
+</servlet-mapping>
+</web-app>
+
+
+C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\pro\WEB-INF\web.xml
